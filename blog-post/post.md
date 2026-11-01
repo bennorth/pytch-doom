@@ -17,11 +17,12 @@ VIDEO
 
 ## Background
 
-**Pytch** is a system for teaching people Python coding, providing an
-environment which is very close to MIT's Scratch.  The graphical
-output consists of two-dimensional "sprites", which can wear
-"costumes" of the coder's choosing and appear at a chosen location,
-size, and rotation.  This is the only way graphics can be generated.
+[**Pytch**](https://pytch.org/) is a system for teaching people Python
+coding, providing an environment which is very close to MIT's Scratch.
+The graphical output consists of two-dimensional "sprites", which can
+wear "costumes" of the coder's choosing and appear at a chosen
+location, size, and rotation.  This is the only way graphics can be
+generated.
 
 ![Pytch screenshot](img/pytch-ide-shooting-stars.png)
 
