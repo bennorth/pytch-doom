@@ -5,4 +5,4 @@ Files for creating a much-simplified version of Doom which runs in the
 
 For details see the blog post:
 
-* TO FILL IN WHEN POSTED
+* ["But can it run Doom?"](https://redfrontdoor.org/blog/?p=4047)
