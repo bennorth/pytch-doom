@@ -45,7 +45,7 @@ Can we add Pytch to the list?
 ## Research and reference
 
 I had, long ago, done some reading on Doom's binary space partition
-(BSP) mechanism, and how it enabled their rendering efficiency.  I
+(BSP) mechanism, and how it enabled its rendering efficiency.  I
 needed to refresh my memory on how this worked.  These resources were
 very useful in doing so:
 
